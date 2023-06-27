@@ -13,11 +13,19 @@ section {
     article {
         width: 300px;
         height: 300px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        font-size: 30px;
+
         background: hotpink;
         display: flex;
         justify-content: center;
         align-items: center;
         font-size: 30px;
         color: #fff;
+
     }
 }
